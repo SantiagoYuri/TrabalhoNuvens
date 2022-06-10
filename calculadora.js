@@ -11,7 +11,7 @@ function divisao(a,b){
 }
 
 function subtracao(a,b){
-    return a - b;
+    return a -b;
 }
 
 module.exports = {
